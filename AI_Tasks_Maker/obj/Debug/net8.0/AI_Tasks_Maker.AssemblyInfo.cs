@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AI_Tasks_Maker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bb9e798f03401e5470111c86bbd05e44b9f37ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f4e643387a6d5e45fbc82adae1c3da686cfaa76")]
 [assembly: System.Reflection.AssemblyProductAttribute("AI_Tasks_Maker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AI_Tasks_Maker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
